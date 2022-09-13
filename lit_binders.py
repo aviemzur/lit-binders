@@ -38,4 +38,4 @@ for i in range(0, len(ids)):
             ct = st.container()
             ct.image(image_path)
         else:
-            st.image('images/empty.png')
+            st.image('empty.png')
