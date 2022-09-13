@@ -7,15 +7,17 @@ import scryfall
 
 st.set_page_config(page_title='Lit Binders')
 
-st.title('Cycles')
-
-
 st.markdown(
     '<style>body{background-color: Blue;}</style>', unsafe_allow_html=True)
 
-with open('cards/cycles.txt') as f:
+binders = sorted([binder.replace('.txt', '') for binder in os.listdir('cards')]
+selected_binder = st.selectbox('Lit Binders', binders)
+
+with open(f'cards/{selected_binder}.txt') as f:
     lines = f.readlines()
     ids = [scryfall.url_to_id(line) for line in lines]
+
+st.title(selected_binder)
 
 cols = st.columns(5)
 
@@ -33,6 +35,7 @@ for i in range(0, len(ids)):
                 os.makedirs(os.path.dirname(image_path), exist_ok=True)
                 response = requests.get(image_url)
                 open(image_path, 'wb').write(response.content)
-            st.image(image_path)
+            ct = st.container()
+            ct.image(image_path)
         else:
             st.image('images/empty.png')
