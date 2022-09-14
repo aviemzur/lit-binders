@@ -10,7 +10,7 @@ st.set_page_config(page_title='Lit Binders')
 st.markdown(
     '<style>body{background-color: Blue;}</style>', unsafe_allow_html=True)
 
-binders = sorted([binder.replace('.txt', '') for binder in os.listdir('cards')]
+binders = sorted([binder.replace('.txt', '') for binder in os.listdir('cards')])
 selected_binder = st.selectbox('Lit Binders', binders)
 
 with open(f'cards/{selected_binder}.txt') as f:
