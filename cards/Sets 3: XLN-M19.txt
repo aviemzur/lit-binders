@@ -1,3 +1,4 @@
+
 https://scryfall.com/card/xln/60/jace-cunning-castaway
 https://scryfall.com/card/xln/232/vraska-relic-seeker
 https://scryfall.com/card/xln/224/huatli-warrior-poet
@@ -92,6 +93,11 @@ https://scryfall.com/card/dom/68/tempest-djinn
 https://scryfall.com/card/dom/88/dread-shade
 https://scryfall.com/card/dom/129/goblin-chainwhirler
 https://scryfall.com/card/dom/182/steel-leaf-champion
+https://scryfall.com/card/dom/21/history-of-benalia
+https://scryfall.com/card/dom/70/time-of-ice
+https://scryfall.com/card/dom/90/the-eldest-reborn
+https://scryfall.com/card/dom/123/the-flame-of-keld
+https://scryfall.com/card/dom/179/song-of-freyalise
 https://scryfall.com/card/dom/32/sergeant-at-arms
 https://scryfall.com/card/dom/46/blink-of-an-eye
 https://scryfall.com/card/dom/110/vicious-offering
@@ -100,6 +106,7 @@ https://scryfall.com/card/dom/167/krosan-druid
 https://scryfall.com/card/dom/36/teshar-ancestors-apostle
 https://scryfall.com/card/dom/44/artificers-assistant
 https://scryfall.com/card/dom/99/lingering-phantom
+
 https://scryfall.com/card/dom/234/traxos-scourge-of-kroog
 https://scryfall.com/card/dom/220/jhoiras-familiar
 https://scryfall.com/card/m19/212/arcades-the-strategist

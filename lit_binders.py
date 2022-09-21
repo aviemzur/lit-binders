@@ -9,9 +9,25 @@ st.set_page_config(page_title='Lit Binders')
 
 st.markdown(
     '<style>body{background-color: Blue;}</style>', unsafe_allow_html=True)
-
+    
 binders = sorted([binder.replace('.txt', '') for binder in os.listdir('cards')])
-selected_binder = st.selectbox('Lit Binders', binders)
+
+def save_selection(init=False):
+    index = 0
+    if not init:
+        index = binders.index(st.session_state.selection)
+    with open('_index', 'w') as f:
+        f.write(str(index))
+
+if not os.path.exists('_index'):
+    save_selection(init=True)
+
+def get_selection():
+    with open('_index') as f:
+        result = f.read()
+    return int(result)
+
+selected_binder = st.selectbox('Lit Binders', binders, index=get_selection(), on_change=save_selection, key='selection')
 
 with open(f'cards/{selected_binder}.txt') as f:
     lines = f.readlines()
