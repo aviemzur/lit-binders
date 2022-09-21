@@ -25,13 +25,16 @@ for i in range(0, len(ids)):
     with cols[i % 5]:
         id = ids[i]
         if id != 'blank':
-            image_path = f'images/{id}.png'
+            face = 1
+            image_path = f"images/{id.replace('|', '-').strip()}.png"
+            if '|' in id:
+                id, face = id.split('|')
             if not os.path.exists(image_path):
                 card = scryfall.get_cards(id)
                 if 'image_uris' in card:
                     image_url = card['image_uris']['png']
                 else:
-                    image_url = card['card_faces'][0]['image_uris']['png']
+                    image_url = card['card_faces'][int(face) - 1]['image_uris']['png']
                 os.makedirs(os.path.dirname(image_path), exist_ok=True)
                 response = requests.get(image_url)
                 open(image_path, 'wb').write(response.content)

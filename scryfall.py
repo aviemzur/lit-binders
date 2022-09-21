@@ -39,7 +39,11 @@ def url_to_id(url):
     if url.startswith(SITE_CARD_URL):
         id = url.replace(SITE_CARD_URL, '')
         separator_indexes = list(_findall('/', id))
-        return id[:separator_indexes[1]]
+        result = id[:separator_indexes[1]]
+        if '|' in url:
+            _, suffix = url.split('|')
+            return f'{result}|{suffix}'
+        return result
     return 'blank'
 
 
