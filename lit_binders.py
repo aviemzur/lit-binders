@@ -56,5 +56,5 @@ for i in range(0, len(ids)):
                 open(image_path, 'wb').write(response.content)
             ct = st.container()
             ct.image(image_path)
-        else:
+        elif i < len(ids) - 1:
             st.image('empty.png')

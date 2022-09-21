@@ -63,6 +63,11 @@ https://scryfall.com/card/thb/56/naiad-of-hidden-coves
 https://scryfall.com/card/thb/103/lampad-of-deaths-vigil
 https://scryfall.com/card/thb/146/oread-of-mountains-blaze
 https://scryfall.com/card/thb/169/dryad-of-the-ilysian-grove
+https://scryfall.com/card/thb/13/elspeth-conquers-death
+https://scryfall.com/card/thb/52/kiora-bests-the-sea-god
+https://scryfall.com/card/thb/91/elspeths-nightmare
+https://scryfall.com/card/thb/124/the-akroan-war
+https://scryfall.com/card/thb/166/the-binding-of-the-titans
 https://scryfall.com/card/thb/36/sentinels-eyes
 https://scryfall.com/card/thb/66/sleep-of-the-dead
 https://scryfall.com/card/thb/123/woe-strider

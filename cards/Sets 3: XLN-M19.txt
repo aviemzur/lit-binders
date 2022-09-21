@@ -106,7 +106,6 @@ https://scryfall.com/card/dom/167/krosan-druid
 https://scryfall.com/card/dom/36/teshar-ancestors-apostle
 https://scryfall.com/card/dom/44/artificers-assistant
 https://scryfall.com/card/dom/99/lingering-phantom
-
 https://scryfall.com/card/dom/234/traxos-scourge-of-kroog
 https://scryfall.com/card/dom/220/jhoiras-familiar
 https://scryfall.com/card/m19/212/arcades-the-strategist
