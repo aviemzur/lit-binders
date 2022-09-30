@@ -74,3 +74,4 @@ https://scryfall.com/card/teld/6/rat
 https://scryfall.com/card/teld/9/boar
 https://scryfall.com/card/m20/171/ferocious-pup
 https://scryfall.com/card/twar/18/servo
+https://scryfall.com/card/rna/50/senate-courier
