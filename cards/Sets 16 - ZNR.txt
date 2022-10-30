@@ -19,15 +19,15 @@ https://scryfall.com/card/znr/298/skyclave-shade
 https://scryfall.com/card/znr/133/akoum-hellhound
 https://scryfall.com/card/znr/193/lotus-cobra
 
-https://scryfall.com/card/znr/64/jwari-disruption-jwari-ruins|1
-https://scryfall.com/card/znr/64/jwari-disruption-jwari-ruins|2
+https://scryfall.com/card/znr/64/jwari-disruption-jwari-ruins
+https://scryfall.com/card/znr/49/charix-the-raging-isle
+https://scryfall.com/card/znr/82/skyclave-squid
+
+https://scryfall.com/card/znr/229/murasa-rootgrazer
 https://scryfall.com/card/znr/15/fearless-fledgling
 https://scryfall.com/card/znr/25/makindi-ox
-https://scryfall.com/card/znr/203/scute-swarm
-https://scryfall.com/card/znr/229/murasa-rootgrazer
-https://scryfall.com/card/znr/49/charix-the-raging-isle
 https://scryfall.com/card/znr/7/canyon-jerboa
-https://scryfall.com/card/znr/82/skyclave-squid
+https://scryfall.com/card/znr/203/scute-swarm
 https://scryfall.com/card/znr/266/plains
 https://scryfall.com/card/znr/269/island
 https://scryfall.com/card/znr/272/swamp

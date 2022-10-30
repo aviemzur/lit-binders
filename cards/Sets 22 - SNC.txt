@@ -43,11 +43,11 @@ https://scryfall.com/card/snc/65/wiretapping
 https://scryfall.com/card/snc/69/cemetery-tampering
 https://scryfall.com/card/snc/130/widespread-thieving
 https://scryfall.com/card/snc/145/fight-rigging
-https://scryfall.com/card/snc/216/riveteers-ascendancy
-https://scryfall.com/card/snc/92/rogues-gallery
-https://scryfall.com/card/snc/63/undercover-operative
-https://scryfall.com/card/snc/121/riveteers-requisitioner
 
+https://scryfall.com/card/snc/63/undercover-operative
+https://scryfall.com/card/snc/92/rogues-gallery
+https://scryfall.com/card/snc/121/riveteers-requisitioner
+https://scryfall.com/card/snc/216/riveteers-ascendancy
 https://scryfall.com/card/snc/272/plains
 https://scryfall.com/card/snc/274/island
 https://scryfall.com/card/snc/276/swamp
