@@ -73,63 +73,53 @@ https://scryfall.com/card/rix/147/tendershoot-dryad
 https://scryfall.com/card/trix/6/citys-blessing
 
 
-https://scryfall.com/card/dom/200/oath-of-teferi
-https://scryfall.com/card/dom/207/teferi-hero-of-dominaria
-https://scryfall.com/card/dom/237/weatherlight
-https://scryfall.com/card/dom/132/jaya-ballard
-https://scryfall.com/card/dom/1/karn-scion-of-urza
-https://scryfall.com/card/dom/26/lyra-dawnbringer
-https://scryfall.com/card/dom/197/jhoira-weatherlight-captain
-https://scryfall.com/card/dom/86/demonlord-belzenlok
-https://scryfall.com/card/dom/149/verix-bladewing
-https://scryfall.com/card/dom/174/multani-yavimayas-avatar
-https://scryfall.com/card/dom/39/urzas-ruinous-blast
-https://scryfall.com/card/dom/55/karns-temporal-sundering
-https://scryfall.com/card/dom/114/yawgmoths-vile-offering
-https://scryfall.com/card/dom/133/jayas-immolating-inferno
-https://scryfall.com/card/dom/166/kamahls-druidic-vow
-https://scryfall.com/card/dom/6/benalish-marshal
-https://scryfall.com/card/dom/68/tempest-djinn
-https://scryfall.com/card/dom/88/dread-shade
-https://scryfall.com/card/dom/129/goblin-chainwhirler
-https://scryfall.com/card/dom/182/steel-leaf-champion
-https://scryfall.com/card/dom/21/history-of-benalia
-https://scryfall.com/card/dom/70/time-of-ice
-https://scryfall.com/card/dom/90/the-eldest-reborn
-https://scryfall.com/card/dom/123/the-flame-of-keld
-https://scryfall.com/card/dom/179/song-of-freyalise
-https://scryfall.com/card/dom/32/sergeant-at-arms
-https://scryfall.com/card/dom/46/blink-of-an-eye
-https://scryfall.com/card/dom/110/vicious-offering
-https://scryfall.com/card/dom/125/ghitu-chronicler
-https://scryfall.com/card/dom/167/krosan-druid
-https://scryfall.com/card/dom/36/teshar-ancestors-apostle
-https://scryfall.com/card/dom/44/artificers-assistant
-https://scryfall.com/card/dom/99/lingering-phantom
-https://scryfall.com/card/dom/234/traxos-scourge-of-kroog
-https://scryfall.com/card/dom/220/jhoiras-familiar
-https://scryfall.com/card/m19/212/arcades-the-strategist
-https://scryfall.com/card/m19/214/chromium-the-mutable
-https://scryfall.com/card/m19/218/nicol-bolas-the-ravager-nicol-bolas-the-arisen
-https://scryfall.com/card/m19/219/palladia-mors-the-ruiner
-https://scryfall.com/card/m19/225/vaevictis-asmadi-the-dire
+https://scryfall.com/card/xln/13/goring-ceratops
+https://scryfall.com/card/xln/71/rivers-rebuke
+https://scryfall.com/card/xln/117/revel-in-riches
+https://scryfall.com/card/xln/155/raptor-hatchling
+https://scryfall.com/card/xln/204/river-heralds-boon
+https://scryfall.com/card/xln/53/dive-down
+https://scryfall.com/card/xln/67/perilous-voyage
+https://scryfall.com/card/xln/223/hostage-taker
+https://scryfall.com/card/xln/136/captain-lannery-storm
+https://scryfall.com/card/xln/211/tishanas-wayfinder
 
 
-https://scryfall.com/card/m19/218/nicol-bolas-the-ravager-nicol-bolas-the-arisen|2
+https://scryfall.com/card/xln/55/entrancing-melody
 
 
 
-https://scryfall.com/card/m19/67/patient-rebuilding
-https://scryfall.com/card/m19/97/fraying-omnipotence
-https://scryfall.com/card/m19/129/apex-of-power
 
-https://scryfall.com/card/m19/37/shield-mare
-https://scryfall.com/card/m19/77/surge-mare
-https://scryfall.com/card/m19/114/plague-mare
-https://scryfall.com/card/m19/151/lightning-mare
-https://scryfall.com/card/m19/207/vine-mare
+https://scryfall.com/card/rix/35/curious-obsession
 
 
-https://scryfall.com/card/m19/231/diamond-mare
-
-
+https://scryfall.com/card/rix/123/cacophodon
+https://scryfall.com/card/rix/120/tilonallis-crown
+https://scryfall.com/card/rix/111/rekindling-phoenix
+https://scryfall.com/card/rix/114/shatter
+https://scryfall.com/card/rix/126/crested-herdcaller
+https://scryfall.com/card/xln/260/plains
+https://scryfall.com/card/xln/264/island
+https://scryfall.com/card/xln/268/swamp
+https://scryfall.com/card/xln/272/mountain
+https://scryfall.com/card/xln/276/forest
+https://scryfall.com/card/xln/261/plains
+https://scryfall.com/card/xln/265/island
+https://scryfall.com/card/xln/269/swamp
+https://scryfall.com/card/xln/273/mountain
+https://scryfall.com/card/xln/277/forest
+https://scryfall.com/card/xln/262/plains
+https://scryfall.com/card/xln/266/island
+https://scryfall.com/card/xln/270/swamp
+https://scryfall.com/card/xln/274/mountain
+https://scryfall.com/card/xln/278/forest
+https://scryfall.com/card/xln/263/plains
+https://scryfall.com/card/xln/267/island
+https://scryfall.com/card/xln/271/swamp
+https://scryfall.com/card/xln/275/mountain
+https://scryfall.com/card/xln/279/forest
+https://scryfall.com/card/rix/192/plains
+https://scryfall.com/card/rix/193/island
+https://scryfall.com/card/rix/194/swamp
+https://scryfall.com/card/rix/195/mountain
+https://scryfall.com/card/rix/196/forest

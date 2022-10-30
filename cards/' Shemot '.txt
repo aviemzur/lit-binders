@@ -1,9 +1,12 @@
 https://scryfall.com/card/mm3/204/zur-the-enchanter
+https://scryfall.com/card/c16/48/tymna-the-weaver
+https://scryfall.com/card/hml/37/reveka-wizard-savant
+https://scryfall.com/card/inv/4/atalya-samite-master
+https://scryfall.com/card/pjud/11/%D7%AA%D7%94%D7%99%D7%9C%D7%94
 https://scryfall.com/card/c17/43/mirri-weatherlight-duelist
 https://scryfall.com/card/2xm/200/hanna-ships-navigator
 https://scryfall.com/card/vow/38/thalia-guardian-of-thraben
 https://scryfall.com/card/war/13/gideon-blackblade
-https://scryfall.com/card/v15/9/iona-shield-of-emeria
 https://scryfall.com/card/dom/203/rona-disciple-of-gix
 https://scryfall.com/card/rna/185/judith-the-scourge-diva
 https://scryfall.com/card/thb/217/gallia-of-the-endless-dance
@@ -18,11 +21,3 @@ https://scryfall.com/card/neo/229/naomi-pillar-of-order
 https://scryfall.com/card/snc/177/cormela-glamour-thief
 https://scryfall.com/card/dmu/193/aron-benalias-ruin
 https://scryfall.com/card/dmu/15/danitha-benalias-hope
-https://scryfall.com/card/hml/37/reveka-wizard-savant
-https://scryfall.com/card/inv/4/atalya-samite-master
-https://scryfall.com/card/pjud/11/%D7%AA%D7%94%D7%99%D7%9C%D7%94
-https://scryfall.com/card/c16/48/tymna-the-weaver
-https://scryfall.com/card/c16/33/ishai-ojutai-dragonspeaker
-https://scryfall.com/card/clb/283/mazzy-truesword-paladin
-https://scryfall.com/card/uma/112/shirei-shizos-caretaker
-https://scryfall.com/card/ima/39/yosei-the-morning-star

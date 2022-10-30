@@ -59,7 +59,28 @@ https://scryfall.com/card/dmu/4/argivian-cavalier
 https://scryfall.com/card/dmu/118/coalition-warbrute
 https://scryfall.com/card/dmu/168/linebreaker-baloth
 
+https://scryfall.com/card/dmu/185/threats-undetected
+https://scryfall.com/card/dmu/204/king-darien-xlviii
+https://scryfall.com/card/dmc/143/baleful-strix
+https://scryfall.com/card/dmu/120/dragon-whelp
+https://scryfall.com/card/dmu/140/phoenix-chick
+
 
 https://scryfall.com/card/tdmu/23/powerstone
 
 
+https://scryfall.com/card/dmu/277/plains
+https://scryfall.com/card/dmu/278/island
+https://scryfall.com/card/dmu/279/swamp
+https://scryfall.com/card/dmu/280/mountain
+https://scryfall.com/card/dmu/281/forest
+https://scryfall.com/card/dmu/262/plains
+https://scryfall.com/card/dmu/266/island
+https://scryfall.com/card/dmu/269/swamp
+https://scryfall.com/card/dmu/271/mountain
+https://scryfall.com/card/dmu/275/forest
+https://scryfall.com/card/dmu/264/plains
+https://scryfall.com/card/dmu/267/island
+https://scryfall.com/card/dmu/270/swamp
+https://scryfall.com/card/dmu/273/mountain
+https://scryfall.com/card/dmu/276/forest
