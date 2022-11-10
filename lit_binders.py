@@ -7,27 +7,30 @@ import scryfall
 
 st.set_page_config(page_title='Lit Binders')
 
+st.markdown("<div id='linkto_top'></div>", unsafe_allow_html=True)
+
 st.markdown(
     '<style>body{background-color: Blue;}</style>', unsafe_allow_html=True)
     
 binders = sorted([binder.replace('.txt', '') for binder in os.listdir('cards')])
 
-def save_selection(init=False):
-    index = 0
-    if not init:
-        index = binders.index(st.session_state.selection)
-    with open('_index', 'w') as f:
-        f.write(str(index))
-
-if not os.path.exists('_index'):
-    save_selection(init=True)
+def on_binder_selection_change():
+    index = binders.index(st.session_state.selection)
+    save_selection(index)
 
 def get_selection():
     with open('_index') as f:
         result = f.read()
     return int(result)
 
-selected_binder = st.selectbox('Lit Binders', binders, index=get_selection(), on_change=save_selection, key='selection')
+def save_selection(index):
+    with open('_index', 'w') as f:
+        f.write(str(index))
+
+if not os.path.exists('_index'):
+    save_selection(0)
+
+selected_binder = st.selectbox('Lit Binders', binders, index=get_selection(), on_change=on_binder_selection_change, key='selection')
 
 with open(f'cards/{selected_binder}.txt') as f:
     lines = f.readlines()
@@ -58,3 +61,14 @@ for i in range(0, len(ids)):
             ct.image(image_path)
         elif i < len(ids) - 1:
             st.image('empty.png')
+
+
+with cols[2]:
+    index = get_selection()
+    if (index < len(binders) - 1):
+        st.image('empty.png', width=50)
+        next = st.button('Next Binder')
+        if next:
+            save_selection(index + 1)
+            st.experimental_rerun()
+        st.markdown("<center><a href='#linkto_top'>top</a></center>", unsafe_allow_html=True)
